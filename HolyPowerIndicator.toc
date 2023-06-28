@@ -1,0 +1,14 @@
+## Interface: 80000
+## X-Min-Interface: 70100
+## Title: Holy Power Indicator
+## Author: Tiiara @ Curse, Crober <The Last Stand> Korialstrasz
+## Version: 8.0.0.
+## Notes: Displays current Holy Power and Combo Points
+## SavedVariables: HolyPowerIndicatorDB
+## OptionalDeps: Ace3
+## DefaultState: enabled
+## X-Embeds: Ace3
+## X-Category: Interface Enhancements
+
+HolyPowerIndicator.xml
+HolyPowerIndicator.lua
